@@ -17,6 +17,14 @@
 
 8. **Q&A Session**: End the lecture with a question and answer session to ensure that students have understood the basic concepts covered.
 
+शिक्षकांचे नाव
+
+[09/02, 2:52 pm] Aaditya❤️😊: शिक्षकांचे नाव
+[09/02, 2:53 pm] Aaditya❤️😊: पद
+[09/02, 2:54 pm] Aaditya❤️😊: नो. सुरु .ता
+[09/02, 2:54 pm] Aaditya❤️😊: जन्म दिनांक
+[09/02, 2:55 pm] Aaditya❤️😊: या  शाळेत रुजू दि
+
 
 
 https://drive.google.com/drive/folders/1z-mywIfrUdNlu_buhX6mRBjrz04m-ffZ?usp=sharing
