@@ -17,3 +17,6 @@
 
 8. **Q&A Session**: End the lecture with a question and answer session to ensure that students have understood the basic concepts covered.
 
+
+
+https://drive.google.com/drive/folders/1z-mywIfrUdNlu_buhX6mRBjrz04m-ffZ?usp=sharing
