@@ -1,27 +1,4 @@
 
-सैयद शुजाउद्दीन सैध्यद रफीउद्दीन
-
-पदवीधर शिक्षक
-
-10/1/1988
-
-22/01/2009
-
-16/05/2023
-
-
-शारीकोद्दीन शफोयोद्दीन
-
-पदवीधर शिक्षक
-
-24/07/2010 11988
-
-23/05/1988
-
-16/05/2023
-
-
-
 
 # New-ICT
 
@@ -42,25 +19,12 @@
 
 8. **Q&A Session**: End the lecture with a question and answer session to ensure that students have understood the basic concepts covered.
 
-शिक्षकांचे नाव
-
-अयाज अहमद मुशताक अहमद मुक्री 
-पदवीधर शिक्षक 
-27 /4 /1974
-4 / 8 /1997
-19 / 5 /2018
-शिक्षक परिचय
-
-(शिक्षकांचे नांव :- सय्यद अतहर सय्यद अहमद
-
-हुद्दा
-
-उप-शिक्षक
-
-जन्म दिनांक :- नो. सुरु ता ३०/०६/१९८९
-
-30/06/1989
-
-१२/०९/२०१९ या शाळेते रुजू दि:- १२/०९/२०१९
-
 https://drive.google.com/drive/folders/1z-mywIfrUdNlu_buhX6mRBjrz04m-ffZ?usp=sharing
+
+
+// intro example
+**Introduction: Aaditya Mali**
+
+Hello, I'm Aaditya Mali, and I'm passionate about technology and programming. I hold a Master's in Computer Applications (MCA), which has equipped me with a solid foundation in software development and computer science principles. My favorite programming languages are Python and SQL, where I enjoy crafting efficient and elegant solutions to complex problems. Additionally, I have a keen interest in web development, particularly HTML, which allows me to create dynamic and visually appealing websites. When I'm not coding, you can often find me immersed in the world of video games, where I enjoy exploring virtual worlds and challenging myself with strategic gameplay.
+
+
