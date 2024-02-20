@@ -1,6 +1,3 @@
-मसूर दाळ उसळ भात
-हरभरा, उसळभात
-माटाची उसळभात 
 
 
 # New-ICT
@@ -23,6 +20,11 @@
 8. **Q&A Session**: End the lecture with a question and answer session to ensure that students have understood the basic concepts covered.
 
 https://drive.google.com/drive/folders/1z-mywIfrUdNlu_buhX6mRBjrz04m-ffZ?usp=sharing
+
+
+attendance
+
+https://www.icttrainingmaharashtra.co.in/
 
 
 // intro example
