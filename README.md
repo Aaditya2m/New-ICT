@@ -3,6 +3,16 @@ https://www.instagram.com/p/ClipSg7rk8u/?igsh=MzRlODBiNWFlZA==
 
 # New-ICT
 
+इयत्ता
+अक
+
+| विदयाथ्र्याचे नाव |
+अंडी 
+केळी 
+
+
+
+
 
 1. **Introduction to ICT**: Explain what ICT stands for - Information and Communication Technology - and briefly discuss its importance in our daily lives.
 
