@@ -1,6 +1,56 @@
-https://www.instagram.com/reel/CvzqjjJNU91/?igsh=MzRlODBiNWFlZA==
+Aaditya
 
-https://www.instagram.com/p/ClipSg7rk8u/?igsh=MzRlODBiNWFlZA==
+1. computer help us do?
+
+a. Clean your room
+
+b. Enjoy rides
+
+c. Learn and do activities
+
+d. Bake food
+
+2. What do we use to press keys and type on the computer?
+
+a. Polka dots
+
+b. Mouse
+
+c. Keyboard
+
+d. Mobile Phone
+
+3. Which of these can we use to draw one
+
+a. Pencil
+
+b. Crayon
+
+c. Mouse
+
+d. Brush
+
+4. What helps us see things on the computer screen?
+
+a. Speakers
+
+b. Keyboard
+
+c. Monitor
+
+d. CPU
+
+5. draw computer diagram
+
+6. What is the power button used for on a computer?
+
+a. To turn the computer on or off.
+
+b. To change the screen colour
+
+c. To open the internet browser
+
+d. Changing the wallpaper
 
 # New-ICT
 
