@@ -1,4 +1,5 @@
 Aaditya
+https://chartink.com/screener/atr-2089
 
 1. computer help us do?
 
