@@ -1,5 +1,4 @@
 
-https://chat.openai.com/c/47ad143c-98d9-4a46-8337-597209645a44
 
 <!DOCTYPE html>
 <html lang="en">
