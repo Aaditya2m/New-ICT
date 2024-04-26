@@ -1,8 +1,43 @@
 
 
-शाळापूर्व तयारी मेळावा 
-ज़ प उर्दू शाळा जामठी 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Trading Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Stock Trading Platform</h1>
+            <!-- Add navigation links here -->
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section id="stock-selection">
+                <h2>Select a Stock</h2>
+                <!-- Add form to select stock here -->
+            </section>
+
+            <section id="historical-data">
+                <h2>Historical Stock Data</h2>
+                <!-- Add section to display historical data here -->
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Stock Trading Platform</p>
+        </div>
+    </footer>
+</body>
+</html>
 
 
 
