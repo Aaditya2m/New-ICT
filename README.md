@@ -1,4 +1,4 @@
-
+https://chartink.com/screener/tradingspell-main-scanner?mcp_token=eyJwaWQiOjEzMjQzMzQsInNpZCI6MTc2NjA4MTg0MiwiYXgiOiJkZDQzY2I0NmQ2YjYwMTNhM2Y1MTc0YzNlYWQxYTdlNSIsInRzIjoxNzE5NDE1MzIxLCJleHAiOjE3MjE4MzQ1MjF9.PbBa0okJKemKjgWvOtgaKJhD7NDD5PiwAElLc-ASZpI
 https://m.ict-trainingmaharashtra.co.in/login
 
 
