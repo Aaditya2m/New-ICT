@@ -12,6 +12,48 @@ https://chartink.com/screener/multi-bagger-stockexploder-scan
 
 
 
+
+
+
+
+BFINVEST NSE
+
+
+
+PPLPHARMA NSE
+
+
+
+TALBROAUTO NSE
+
+
+
+ROSSELLIND NSE
+
+
+
+HERCULES NSE
+
+
+RAMRAT NSE
+
+
+
+DBCORP NSE
+
+
+
+VGUARD
+
+ARIES NSE
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
